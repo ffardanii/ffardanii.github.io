@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "037_1.1",
+			"path": "../../037_1.1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "037_1"
+	}
+}
